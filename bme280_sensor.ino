@@ -47,6 +47,10 @@
  * Dragos Iosub, Bucharest 2019.
  * https://itbrainpower.net
  */
+/*
+ * Modified by:
+ * Kabir Bissessar, Espoo 2021.
+ */
 
 #define SERIAL_SPEED  19200
 
